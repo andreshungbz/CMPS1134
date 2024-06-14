@@ -8,5 +8,5 @@
 | Semester Taken | 2023-1                    |
 | Course Code    | CMPS1134                  |
 | Course Name    | Fundamentals of Computing |
-| Section        | 1                         |
+| Section        | 2                         |
 | Instructor     | Dr. Kieran Ryan           |
